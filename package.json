@@ -1,0 +1,16 @@
+{
+  "name": "javascript-tetris",
+  "version": "1.0.0",
+  "description": "Javascript Tetris\r =================",
+  "main": "stats.js",
+  "scripts": {
+    "start": "http-server -p 5000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
